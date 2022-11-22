@@ -1,0 +1,4 @@
+bundle agent submodule
+{
+  reports: "Hi from a submodule policy file.";
+}
