@@ -1,7 +1,13 @@
 {
-  "inputs": ["play-mpf-submodule/submodule.cf"],
+  "inputs": [
+    "play-mpf-submodule/submodule.cf",
+    "play-mpf-submodule/yoda.cf"
+  ]
   "vars":
   {
-    "control_common_bundlesequence_end": ["submodule"]
+    "control_common_bundlesequence_end": [
+      "submodule",
+      "yoda"
+    ]
   }
 }
