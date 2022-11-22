@@ -1,5 +1,5 @@
 {
-  "inputs": ["submodule.cf"],
+  "inputs": ["play-mpf-submodule/submodule.cf"],
   "vars":
   {
     "control_common_bundlesequence_end": ["submodule"]
